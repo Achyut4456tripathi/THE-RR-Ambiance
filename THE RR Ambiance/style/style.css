@@ -1,0 +1,399 @@
+*{
+    margin: 0%;
+     font-family: "Merriweather", serif;
+}
+body{
+    background-color: #FFF1D6;
+}
+
+
+.merriweather-<uniquifier> {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav{
+    display: flex;
+    padding: 20px;
+    background-color: #FFF1D6;
+    color: #6E2C2C;
+      font-family: "Merriweather", serif;   
+
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    background-color: #FFF1D6;
+    justify-content: space-around;
+    color: #6E2C2C;
+    size: 100px;
+    margin-right: 35%;
+    width:200px;
+    text-wrap: nowrap;
+}
+nav h1 {
+    background-color: #FFF1D6;
+    text-decoration: none;
+    color: #6E2C2C;
+    margin-right: 20%;
+}
+
+nav h2 {
+    background-color:  #FFB000;
+    color: #6E2C2C;
+    padding:5px ;
+    border-radius: 2.5px;
+    border: 2.5px;
+    border-color:#d89400;
+    transform-style: scale(1);
+    transition: #C85C5C 0.15s ease-in-out ;
+    transition-delay: 0.05s;
+    }
+
+.navullia{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 0px;
+    border-style: solid;
+    border-radius: 5%;
+  transition: 0.5s; 
+  
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+     
+}
+.navullib{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 0px;
+    border-style: solid;
+    border-radius: 5%;
+  transition: 0.5s; 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+     
+}
+.navullic{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 0px;
+    border-style: solid;
+    border-radius: 5%;
+  transition: 0.5s; 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+     
+}
+.navullid{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 0px;
+    border-style: solid;
+    border-radius: 5%;
+  transition: 0.25s; 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+     
+}
+ 
+
+.img{
+    height: 60vh;
+    width: 47vw;
+    background-image: url(Instagram\ -\ Google\ Chrome\ 20-10-2026\ 12_36_04.png);
+    background-size: 100% 100%;
+
+}
+img{
+    height: 60vh;
+    width: 47vw;
+
+    background-size: 100% 100%;
+
+}
+nav h2:hover{
+    background-color:  #6E2C2C ;
+    color: #ffffff;
+    padding:5px ;
+    border-radius: 2.5px;
+    border: 2.5px;
+    border-color:#d89400;
+    transform-style: scale(1);
+    transition: #C85C5C 0.05s ease-in-out ;
+    transition-delay: 0.05s;
+}
+nav h2 a:hover{
+    background-color:  #6E2C2C ;
+    color: #ffffff;
+    padding:5px ;
+    border-radius: 2.5px;
+    border: 2.5px;
+    border-color:#d89400;
+    transform-style: scale(1);
+    transition: #C85C5C 0.05s ease-in-out ;
+    transition-delay: 0.05s;
+}
+.navullia:hover{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 5px;
+    border-style: solid;
+    border-radius: 5%;
+    transition: 0.5s; 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+}
+.navullib:hover{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 5px;
+    border-style: solid;
+    border-radius: 5%;
+ 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+}
+.navullic:hover{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 5px;
+    border-style: solid;
+    border-radius: 5%;
+ 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+}
+.navullid:hover{
+     border-top: 0;
+    border-left: 0;
+    border-right: 0;
+       border-bottom: 5px;
+    border-style: solid;
+    border-radius: 5%;
+ 
+    border-color: #B23A48 ;
+        background-color: #FFF1D6; 
+       font-size: 20px;
+       padding-left: 15px;
+       padding-right: 15px;    
+       color: #6E2C2C;
+}
+a{
+    text-decoration: none;
+    color:#6E2C2C;
+}
+main{
+    place-items: center;
+}
+#navi {
+    display: none;
+    font-size: 0px;
+    align-items:center;
+ 
+    
+}
+
+.imageslider{
+    align-items: center;
+    width: 85vw;
+    height: 60vh;
+    background-image: url("2.jpg");
+    background-size: 100% 100%;
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;    animation: changeimage linear 30s infinite ;
+}
+@keyframes changeimage {
+    0%{
+           background-image: url("2.jpg");
+    }
+        25%{
+           background-image: url("1.jpg");
+    }
+        50%{
+           background-image: url("the-rr-ambience-bargo-gorakhpur-banquet-halls-kovsqd4dwr.jpg");
+    }
+        75%{
+           background-image: url("Instagram\ -\ Google\ Chrome\ 20-10-2026\ 12_36_04.png");
+    }
+        0%{
+           background-image: url("2.jpg");
+    }
+}
+.columnboxa{
+    display: flex;
+    width: fit-content;
+    flex-wrap: wrap;
+        margin-left: 15px;
+    margin-top: 25px;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.columnboxb{
+    display: flex;
+        width: fit-content;
+       flex-wrap: wrap;
+        margin-left: 15px;
+    margin-top: 25px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.columnsubboxa{
+    display: flex;
+    flex-direction: column;
+   width: 50vw;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.columnsubboxb{
+    display: flex;
+    flex-direction: column;
+   width: 50vw;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.columna{
+      font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 16px;
+    background-color: rgba(216, 148, 0, 0.0000000001);
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2.5%;
+   width: fit-content;
+
+    height: fit-content; 
+}
+.columnb{
+          font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 16px;
+    background-color: rgba(178, 58, 72 , 0.5);
+       width: 91.7%;
+margin-left: 2.5%;
+
+padding: 25px;
+    height: fit-content;
+        display: flex;
+    flex-direction: column;
+}
+
+
+.columnc{
+      font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+    background-color: rgba(216, 148, 0, 0.0000000001);
+    padding: 25px;
+
+    display: flex;
+    flex-direction: column;
+    margin-right: 2.5%;
+   width: 95%;
+      color:#2d2d2d
+    height: fit-content; 
+}
+.columnd{
+          font-family: "Merriweather", serif;
+          color:#2d2d2d;
+  font-optical-sizing: auto;
+  font-weight: 250;
+    background-color: rgba(178, 58, 72 , 0.5);
+       width: 95%;
+margin-right: 2.5%;
+padding: 25px;
+
+    height: 26vh;
+        display: flex;
+    flex-direction: column;
+}
+
+#list2{
+    margin: 25px;
+    font-size: 20px;
+          font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+}
+ strong{
+    font-weight: 900;
+          font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  
+ }
+ p{
+    font-weight: 600;
+          font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+ }
+ main{
+    height: 500vh;
+ }
+
+
+
+@media (max-width:1179px){
+    nav ul{
+        display: none;
+    }
+    nav h2{
+        display: none;
+    }
+    #navi{
+        display: flex;
+        font-size: 25px;
+    }
+    nav h1{
+        margin-right: 70vw;
+    }
+}
+@media (max-width:774px){
+   
+    nav h1{
+        margin-right: 50vw;
+    }
+}
+@media (max-width:458px){
+   
+    nav h1{
+        margin-right: 40vw;
+    }
+}
+#B23A48 
